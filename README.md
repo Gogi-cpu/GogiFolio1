@@ -1,1 +1,2 @@
-# GogiFolio1
+# Gogifolio
+Portafolio de GOGI
